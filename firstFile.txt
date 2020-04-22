@@ -1,1 +1,2 @@
 This is the first file added by Fadel, this should conflict with salman changes 
+This was added from VS code
