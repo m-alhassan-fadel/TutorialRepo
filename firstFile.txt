@@ -2,5 +2,5 @@ This is the first file added by Fadel, this should conflict with salman changes
 This have been added from the newBranch
 This is the first file added by Fadel, this should conflict with salman changes, 111 
 This was added from VS code
-This is a new content from Master
+This is a new content from :P
 This is a new update for pull request
