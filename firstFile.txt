@@ -1,2 +1,2 @@
-This is the first file added by Fadel, this should conflict with salman changes, 111 
-This was added from VS code
+This is the first file added by Fadel, this should conflict with salman changes
+This have been added from the newBranch
